@@ -128,13 +128,13 @@
 ---
 - 개발 구조도
 
-![image](https://github.com/GAM3BO1/mProject/assets/95689059/22ec3adb-36b6-4f33-a106-03ac081d602c)
-
+![개발 구조도](https://github.com/GAM3BO1/mProject/assets/95689059/a34cd2d0-0b45-4f56-8953-6178aac4e4db)
 
 
 - 조직도
 
-![조직도1](https://github.com/GAM3BO1/mProject/assets/95689059/1414c509-9f68-401f-8c6e-1b780735c0bb)
+![기능 조직도](https://github.com/GAM3BO1/mProject/assets/95689059/7860d4e9-1090-49ea-ac15-473dd68a2615)
+
 
 
 ## 화면 설계 
